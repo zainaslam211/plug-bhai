@@ -1,0 +1,10 @@
+{
+  "source_commit": "96e3f368cedc7ea30da67b3efbe1a25d3944baeb",
+  "export_date": "2026-10-16",
+  "export_changes": [
+    "Added SETUP-GUIDE.md and scripts/setup-local.mjs",
+    "Added setup:local and test scripts",
+    "Removed original hosting project ID",
+    "Excluded credentials, live data and generated state"
+  ]
+}
